@@ -13,7 +13,8 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-        //
+        // memberikan panjang default dari tipe data string sebanyak 191
+        // Schema::defaultStringLength(191);
     }
 
     /**
