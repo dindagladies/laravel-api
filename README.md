@@ -2,7 +2,7 @@
 how make api using laravel framework
 # References
 https://medium.com/@tedoharischandra29/membangun-dan-testing-rest-api-dengan-crud-sederhana-laravel-687a7d96ab3b
-#Summary
+# Summary
 1. Create migration tabel
 2. create model
 3. create seeder
